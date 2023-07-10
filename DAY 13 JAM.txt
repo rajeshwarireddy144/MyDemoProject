@@ -1,0 +1,47 @@
+DAY 13 JAM
+
+1.What is jira
+2. which organisation developed jira
+3.Can i use jira for adding testcases
+4.Can i use jira for recording the defects and assign it to the respective developer
+5.What are the three options under jira
+6.What is product backlog and under which options can i create a product backlog
+7.What is a Sprint and how to create a sprint in jira
+8.What is a epic
+9.What is an issue
+10.Difference between an issue and an story
+11.What is an brunout chart and why
+12.What is a service
+13.Which protocol does a service use
+14.What is WSDL and why
+15.What is an extension of a service
+16.Who generetaes a wsdl file
+17.What is soap request and what does it have in it
+18.What is soap response and what does it have in it
+19.How to access a service in other applications
+20.Where does service run
+21.What is ASP.NET and why
+22.How to add a webform into ASP.NET web applications
+23.What is RAD,what is DnD , What is WYSIWYG
+24.What is an event driven programming
+25.What are the two files genereated when you design a web form
+26.What are the two views of a webform
+27.Extension of design view
+28.Extension of code window
+29.Which class is inherited into your web form or page
+30.Syntax of an event handler
+31.fill form of asp
+32.Which language do we use in asp.net
+33.What happens when you click a button
+34.What is post back
+35.What is response , redirect do
+36.How to add a web service to your web page give steps
+37.What happens when you drag and drop a control
+38.What is property window and how to get it
+39.What is id and What is text and its difference
+
+
+command to connect to github : git config --global user.name "your_username"
+git config --global user.email "your_email_address@example.com"
+to check: git config --global --list
+
